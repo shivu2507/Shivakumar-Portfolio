@@ -3,6 +3,7 @@ Showcase of my projects &amp; abilities
 
 ## [Parts of Speech Tagging](https://github.com/shivu2507/POS-Tagging-using-RNN)
    Labelling the word in a sentence with respective parts of speech using,
+   
       i. SimpleRNN architecture with 64 RNN cells, randomly initialised embedding matrix with untrainable embedding weights.
 
 ## [Market Campaign Classification](https://github.com/shivu2507/Marketing-Campaign-Classification)
